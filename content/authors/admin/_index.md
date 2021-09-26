@@ -2,6 +2,7 @@
 title: Miftakhul Ilman Rifqi
 role: Mahasiswa Informatika
 bio: Hanya bersenang-senang
+interests: []
 social:
   - icon: twitter
     icon_pack: fab

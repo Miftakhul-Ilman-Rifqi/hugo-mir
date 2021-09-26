@@ -21,7 +21,7 @@ image:
   focal_point: Smart
   preview_only: true
 ---
-![izuku]( "midoria")
+![izuku](featured.jpg "midoria")
 
 **Izuku Midoriya (緑 み ど り 谷 や 出 い ず 久 く Midoriya Izuku)**, juga dikenal sebagai Deku, adalah protagonis utama My Hero Academia. Meskipun lahir tanpa Quirk, ia berhasil mendapat perhatian pahlawan legendaris All Might karena kepahlawanannya dan sejak itu menjadi murid dekatnya dan juga seorang siswa di SMA U.A. All Might mewariskan quirknya kepada Izuku, membuat Izuku menjadi pemilik kesembilan dari Quirk One For All.
 

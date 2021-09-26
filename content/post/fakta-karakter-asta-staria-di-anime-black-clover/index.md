@@ -22,7 +22,13 @@ image:
     memiliki pedang yang tidak biasa dan hanya menerima pelatihan dasar dari
     Fanzell Kruger."
 ---
+
+
+![](featured.png)
+
 <!--StartFragment-->
+
+**Asta Staria 「アスタ・スタリア Asuta Sutaria」**, adalah anak yatim piatu yang dibesarkan di bawah asuhan gereja di desa Hage, setelah ibunya meninggalkannya di depan pintu gereja. Setelah menginjak 15 tahun, Asta menerima grimoire semanggi berdaun lima dengan iblis Anti Sihir di dalamnya. Dia bergabung di Ksatria Sihir dari Kerajaan Semanggi, pasukan dari Banteng Hitam dan menjadi Ksatria Sihir Junior Kelas 3, serta menjadi anggota sementara Ksatria Kerajaan.
 
 **PENAMPILAN**
 
@@ -43,5 +49,16 @@ Dalam bentuk Asta Hitam-nya, lengan kanannya ditutupi dengan Anti Sihir hitam, s
 Asta umumnya ceria dan hiperaktif. Dia cenderung berteriak untuk mengungkapkan pemikirannya dan mengungkapkan tujuannya, terlepas dari pendapat orang lain, seperti yang terlihat saat dia mengungkapkan tujuannya untuk menjadi seorang Kaisar Sihir selama ujian masuk Ksatria Sihir, dimana dia mengatakan kepada orang lain yang tidak setuju dengan dia untuk diam. Kepentingan kuat kepada Yami Sukehiro cukup untuk merekrut dia ke dalam barisannya. Keteguhannya yang kuat juga membawa dia untuk memiliki kemauan yang kuat untuk tidak pernah menyerah dan tetap berdiri selama pertempuran yang keras, seperti yang diakui oleh Magna Swing.
 
 Karena dibesarkan di wilayah Ditinggalkan, Asta sering menerima opini keras dan penghinaan dari hampir semua orang yang dia temui. Hal ini membuat Asta memiliki sifat sedikit sarkastik saat ia mencoba membela diri. Tapi, setelah mendapat opini keras dari orang lain, Asta telah mengembangkan kekebalan terhadap mereka karena dia dapat dengan mudah menyingkirkannya tanpa terlalu kesal. Namun, Asta masih kesal saat orang lain sangat menghina rekan-rekannya; dia tidak akan ragu untuk menghadapi mereka saat dia mencoba membela teman-temannya.
+
+**KEMAMPUAN**
+
+* **Pendekar Pedang**: Asta awalnya memiliki gaya yang kasar karena memiliki pedang yang tidak biasa dan hanya menerima pelatihan dasar dari Fanzell Kruger. Seiring waktu ia mengembangkan keterampilan yang lebih besar melalui pengalaman pertempuran, pedang tambahan, dan penginderaan ki. Asta telah menjadi pendekar pedang berkemampuan tinggi setelah banyak pertarungan melawan atau dengan pendekar pedang sihir seperti Mars, Kiato, Fanzell, Licht, dan Yami, karena ia melawan dan mengalahkan Liebe, yang menggunakan ketiga Pedang Anti-Sihir.
+* **Tanpa Kekuatan Sihir**: Asta tidak memiliki mana dan karenanya tidak dapat menggunakan sihir. Ini memungkinkan Asta menggunakan Anti Sihir tanpa menderita efek melemah karena dia tidak memiliki sihir untuk dikeringkan. Ini juga membuatnya tidak terdeteksi oleh pendeteksi mana, dan kebal terhadap zat yang menguras kehidupan dunia bawah.
+* **Kepemilikan Iblis**: Sebagai pengguna dari grimoire semanggi berdaun lima, Asta terhubung ke Liebe, yang memiliki Anti Sihir, yang memberinya akses ke energi ini. Semakin banyak kekuatan yang dia gunakan, semakin mirip iblis penampilannya. Asta setuju untuk melakukan tawar-menawar dengan iblis: lengan kanannya ditukar dengan kekuatan iblis yang lebih banyak. Peningkatan kekuatan ini memungkinkan dia untuk meniadakan Keistimewaan Gravitasi, dan untuk melapisi senjata tambahan dalam Anti Sihir; Namun, ia dibatasi hingga 50 detik penggunaannya. Setelah menjalani Ritual Pengikat Iblis, Asta membuat kontrak dengan Liebe untuk berbagi kekuasaan secara setara.s Setelah menempa kontrak dan pelatihan ini selama beberapa hari, Asta dan Liebe mendapatkan kemampuan untuk menggunakan kekuatan Penggabungan, yang sangat meningkatkan kemampuan Anti Sihir mereka. Namun, mereka berdua menunjukkan bahwa Gabungan mereka belum sempurna, dan hanya berlangsung sekitar 5 menit.
+
+**PERALATAN**
+
+* **Grimoire**: Asta memegang daun semanggi lima daun, yang ia terima saat bertarung dengan Revchi. Grimoire compang-camping dan tertutup kotoran, lencana semanggi lima daun hitam di bagian tengah penutup depannya. Simbol semanggi ini sebagian besar tidak terlihat karena kotoran yang menutupinya, membuat sebagian besar (termasuk Asta) berasumsi bahwa grimoire memiliki sihir yang tidak biasa namun tidak biasa. Grimoire-nya dulunya adalah grimoire semanggi berdaun empat milik Licht, sebelum dirusak oleh Zagred dan dihuni oleh iblis lainnya.
+* **Pedang Anti Sihir**: Asta mampu memanggil pedang yang disalurkan dengan Anti Sihir dari grimoire-nya. Dia menggunakan pedang ini untuk berbagai pelanggaran yang dapat membatalkan sihir. Pedang dapat memotong melalui sihir, tetapi direduksi menjadi senjata tumpul saat digunakan untuk menyerang apa pun.
 
 <!--EndFragment-->

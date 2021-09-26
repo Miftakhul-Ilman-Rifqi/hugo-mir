@@ -13,6 +13,6 @@ image:
   caption: ""
   focal_point: ""
 ---
-![]()
+![asta](asta.png)
 
 test

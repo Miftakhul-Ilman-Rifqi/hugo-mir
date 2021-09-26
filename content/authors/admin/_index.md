@@ -1,19 +1,21 @@
 ---
 title: Miftakhul Ilman Rifqi
-role: Mahasiswa STMIK AKAOM
+role: Mahasiswa Informatika
 bio: Hanya bersenang-senang
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: about/#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: https://twitter.com/IlmanMiftakhul?s=09
   - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/geocushen
+    icon_pack: ai
+    link: https://www.instagram.com/miftakhul_ilman_rifqi/
+  - display:
+      header: false
+    link: https://web.facebook.com/BozzClax/
+    icon_pack: ai
+    icon: facebook
 organizations:
-  - name: Stanford University
+  - name: STMIK AKAOM
     url: ""
 superuser: true
 ---

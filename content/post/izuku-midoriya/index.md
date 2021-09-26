@@ -19,11 +19,9 @@ categories:
 image:
   filename: featured.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
-
-
-![izuku](featured.jpg "midoria")
+![izuku]( "midoria")
 
 <!--StartFragment-->
 

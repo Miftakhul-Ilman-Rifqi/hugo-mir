@@ -4,11 +4,7 @@ subtitle: ASTA STARIA - BLACK CLOVER
 date: 2021-09-26T06:45:13.921Z
 summary: Asta Staria 「アスタ・スタリア Asuta Sutaria」, adalah anak yatim piatu yang
   dibesarkan di bawah asuhan gereja di desa Hage, setelah ibunya meninggalkannya
-  di depan pintu gereja. Setelah menginjak 15 tahun, Asta menerima grimoire
-  semanggi berdaun lima dengan iblis Anti Sihir di dalamnya. Dia bergabung di
-  Ksatria Sihir dari Kerajaan Semanggi, pasukan dari Banteng Hitam dan menjadi
-  Ksatria Sihir Junior Kelas 3, serta menjadi anggota sementara Ksatria
-  Kerajaan.
+  di depan pintu gereja.
 draft: false
 featured: false
 authors:
@@ -18,7 +14,7 @@ tags:
 categories:
   - anime
 image:
-  filename: asta.png
+  filename: featured.png
   focal_point: Smart
   preview_only: true
   caption: astaBL

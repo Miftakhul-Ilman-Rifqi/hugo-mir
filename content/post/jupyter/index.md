@@ -13,12 +13,11 @@ image:
   caption: ""
   focal_point: ""
 ---
-```python
-from IPython.core.display import Image
-Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
-```
 
-![png](./index_1_0.png)
+
+
+
+![png](asta.jpg)
 
 ```python
 print("Welcome to Academic!")

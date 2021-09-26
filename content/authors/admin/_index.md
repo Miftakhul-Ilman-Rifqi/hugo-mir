@@ -16,7 +16,7 @@ social:
     icon_pack: fab
     icon: facebook
 organizations:
-  - name: STMIK AKAOM
+  - name: STMIK AKAKOM
     url: ""
 superuser: true
 ---
